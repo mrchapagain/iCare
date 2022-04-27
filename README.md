@@ -2,6 +2,8 @@
 TechLab project
 Google drive link: https://drive.google.com/drive/folders/1H1_RfVvMEtbBIkE46f1R5oiLiZTTx4Rq
 
+Table Data sheet fruits: https://docs.google.com/spreadsheets/d/17Y4y_mGPu6RYLD1G7yrUfTgruC03PByOhfknsN09rGQ/edit#gid=0
+
 Climate glossary: https://carboncloud.com/climate-glossary/
 
 RISE food climate database (Sweden): 1. https://www.ri.se/sites/default/files/2021-07/RISE%20Open%20access%20list%201.7%20210709.pdf
