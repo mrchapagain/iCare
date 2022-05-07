@@ -16,3 +16,5 @@ also git link: https://github.com/Eaternity/eaternity-database-public
 
 Concito Data Base: 
 https://denstoreklimadatabase.dk/en 
+
+How banana shipped to Denmark: https://danwatch.dk/en/undersoegelse/the-bananas-journey-from-ecuador-to-the-supermarket/
