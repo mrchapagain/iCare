@@ -17,9 +17,13 @@ Only 13 columns seems relavant to do Explotary Analytics
 _**STATISTICAL analytics from dataset**_
 ![Discription Of dataSet](https://github.com/mrchapagain/iCare/raw/main/Description%20of%20DataSet.PNG)
 
+_**CORRELATION anoungs different columns**_
+![Correlation Among Columns](https://github.com/mrchapagain/iCare/raw/main/Correlation_Among_Columns.PNG)  
 
-OUTPUT from dataset
-![Figure]() 
+_**OUTPUT from dataset**_
+Different food category have different amount of CO2 emission contribution despite of their Total energy amount.
+![Comparision of CO2 Emission by FoodCategory](https://github.com/mrchapagain/iCare/raw/main/Comparision%20of%20CO2%20Emission%20by%20FoodCategory.png)
+#![Figure](link to figure) 
 
 **Links for additional information and reading about Food Climate Data**
 1.  Google drive link: https://drive.google.com/drive/folders/1H1_RfVvMEtbBIkE46f1R5oiLiZTTx4Rq
